@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jicoing. [Bio](https://www.komlalebu.com).
+- 👋 Hi, I’m @jicoing. [Bio](http://blog.komlalebu.com/).
 - 👀 I’m interested in ... serverless.
 - 🌱 I’m currently learning ... AWS, Docker, Github actions, Webdev, Python.
 - 💞️ I’m looking to collaborate on ... serverless projects.
